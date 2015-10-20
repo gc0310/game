@@ -1,0 +1,29 @@
+html, body
+{
+	background-color: #c8c8c8;
+	height: 98%;
+	width: 98%;
+}
+
+
+h3 {color:black;
+	height: 15%;
+	user-select: none;
+	text-align: center;
+}
+
+
+#mySVGCanvas {
+	border: 5px solid white;
+	border-radius: 5px;
+	width: 600px;
+	height: 400px;
+	margin: auto;
+	background: url('http://i.imgur.com/DcnYPgt.png');
+	background-size: 800px;
+
+}
+
+
+
+
